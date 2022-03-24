@@ -28,10 +28,10 @@ Tools
 
 [AMPL Student Version Download](https://ampl.com/products/ampl/ampl-for-students/)
 
-ILOG AMPL CPLEX User Guide (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ampl.com/BOOKLETS/amplcplex90userguide.pdf))  
+ILOG AMPL CPLEX User Guide ([PDF](http://www.ampl.com/BOOKLETS/amplcplex90userguide.pdf))  
 Contains useful AMPL/CPLEX directives
 
-AMPL Tutorial (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.tu-chemnitz.de/mathematik/part_dgl/teaching/WS2009_Grundlagen_der_Optimierung/amplguide.pdf))
+AMPL Tutorial ([PDF](http://www.tu-chemnitz.de/mathematik/part_dgl/teaching/WS2009_Grundlagen_der_Optimierung/amplguide.pdf))
 
 Course Requirements and Grading
 -------------------------------
