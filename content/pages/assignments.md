@@ -32,7 +32,7 @@ FILES
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit15_093j_f09_assn02))  
-Data ([TXT](/courses/sloan-school-of-management/15-093j-optimization-methods-fall-2009/assignments/data.txt))
+Data ({{% resource_link "6b55d6a3-0aeb-09a6-9ac8-eaa39b85fcb7" "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
